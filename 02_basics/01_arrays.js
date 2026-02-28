@@ -9,11 +9,11 @@ console.log(myArr[1]);
 
 // Array Methods
 
-// myArr.push(6)
-// myArr.push(10)
-// myArr.pop()
-// myArr.unshift(9)
-// myArr.shift()
+myArr.push(6)
+myArr.push(10)
+myArr.pop()
+myArr.unshift(9)
+myArr.shift()
 console.log(myArr.includes(9));
 console.log(myArr.indexOf(9));
 console.log(myArr.indexOf(3));
