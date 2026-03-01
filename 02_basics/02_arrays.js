@@ -3,7 +3,7 @@ const dc_heros = ["Super Man","Bat Man","Flash"]
 
 // marvel_heros.push(dc_heros)
 
-console.log(marvel_heros);
+// console.log(marvel_heros);
 // console.log(marvel_heros[3][1]);
 
 All_heros = marvel_heros.concat(dc_heros)
